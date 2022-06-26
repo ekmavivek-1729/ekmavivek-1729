@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekmavivek-1729&label=Profile%20views&color=0e75b6&style=flat" alt="ekmavivek-1729" /> </p>
 
-- 🌱 I’m currently learning **React JS, Angular, Node JS , Mondo DB.**
+- 🌱 I’m currently working in Thermo Fisher Scientific as a UI developer.**
 
 - 💬 Ask me about **JavaScript and moderate coding problems.**
 
 - 📫 How to reach me **vivekkumar0252525@gmail.com**
 
-- 📄 Know about my experiences [https://my.newtonschool.co/user/vivekkumar0252525/](https://my.newtonschool.co/user/vivekkumar0252525/)
+- 📄 Know about my experiences please visit Linkedin.
 
 - ⚡ Fun fact **I'm not a great programmer; I'm just a good programmer with great habits.**
 
